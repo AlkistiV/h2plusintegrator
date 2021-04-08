@@ -1,5 +1,7 @@
 # h2plusintegrator
-H2+ Molecule Overlap Integral, Coulomb Integral and Exchange Integral Solver
+H2+ Molecule Overlap Integral, Coulomb Integral and Exchange Integral Solver.
+
+![Sketch of 2 hydrogen nuclei and an electron](https://github.com/haltugyildirim/h2plusintegrator/blob/main/h_ions_sketch.svg "MSketch of 2 hydrogen nuclei and an electron")
 
 ![equation](https://latex.codecogs.com/gif.latex?\Psi_{1,0,0}&space;(r_A)&space;=&space;\sqrt{\frac{1}{\pi}}{a_0}^{-\frac{3}{2}}{e}^{-\frac{r_A}{a_0}})
 
@@ -26,3 +28,5 @@ H2+ Molecule Overlap Integral, Coulomb Integral and Exchange Integral Solver
 ![equation](https://latex.codecogs.com/gif.latex?r_b=\sqrt{r_A^2&plus;R^2-2r_ARcos(\theta)})
 
 is it possible ![equation](https://latex.codecogs.com/gif.latex?r_A=r) to use equation in line?
+
+![integrals and cases graph](https://github.com/haltugyildirim/h2plusintegrator/blob/main/graph.svg "integrals and cases graph")
