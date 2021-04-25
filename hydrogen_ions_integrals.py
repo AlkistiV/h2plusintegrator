@@ -2,7 +2,7 @@ import numpy as np
 from scipy import integrate
 import matplotlib.pyplot as plt
 
-# ion distance value
+# ion distance value as array
 R = np.arange(0.001, 10, 0.2)
 
 
